@@ -1,0 +1,89 @@
+body
+{
+background: #E1F7FF; 
+}
+
+input#bigbutton {
+width:200px;
+height:35px;
+background: #3e9cbf; 
+padding: 6px 12px 8px;
+border:1px solid #3e9cbf; 
+cursor:pointer; 
+font-size:1.3em;
+font-family:Oswald, sans-serif; 
+letter-spacing:.1em;
+text-shadow: 0 -1px 0px rgba(0, 0, 0, 0.3); 
+color: #fff;
+-webkit-box-shadow: inset 0px 1px 0px #3e9cbf, 0px 5px 0px 0px #205c73, 0px 10px 5px #999;
+-moz-box-shadow: inset 0px 1px 0px #3e9cbf, 0px 5px 0px 0px #205c73, 0px 10px 5px #999;
+box-shadow: inset 0px 1px 0px #3e9cbf, 0px 5px 0px 0px #205c73, 0px 10px 5px #999;
+
+-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px;
+}
+input#bigbutton:hover, input#bigbutton:focus {
+color:#dfe7ea;
+
+-webkit-box-shadow: inset 0px 1px 0px #3e9cbf, 0px 2px 0px 0px #205c73, 0px 2px 5px #999;
+-moz-box-shadow: inset 0px 1px 0px #3e9cbf, 0px 2px 0px 0px #205c73, 0px 2px 5px #999;
+box-shadow: inset 0px 1px 0px #3e9cbf, 0px 2px 0px 0px #205c73, 0px 2px 5px #999;
+}
+
+form div.dynamiclabel{ 
+  display: block;
+  margin: 15px;
+  font: 8px;
+  position: relative;
+}
+
+
+form div.dynamiclabel input[type="text"], form div.dynamiclabel textarea{
+  width: 420px;
+  padding: 7px;
+  border: 1px solid #c3c3c3;
+  border-radius: 5px;
+}
+
+form div.dynamiclabel textarea{
+  height: 120px;
+}
+
+
+form div.dynamiclabel label{ 
+  position: absolute;
+  left: 0;
+  background: lightblue;
+  border: 1px solid blue;
+  border-radius: 2px;
+  padding: 1px 5px;
+  box-shadow: 2px 1px 2px gray;
+  font-weight: bold;
+  -webkit-backface-visibility: hidden;
+  top: 2px; 
+  -moz-transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -webkit-transition: all 0.4s ease-in-out; 
+  -o-transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  opacity: 0;
+  z-index: -1;
+}
+
+
+form div.dynamiclabel > *:focus{ 
+  border: 1px solid #45bcd2;
+  box-shadow: 0 0 2px 1px #98d865;
+}
+
+
+form div.dynamiclabel > *:focus + label{ 
+  opacity: 1;
+  z-index:20;
+  top: -30px; 
+  -ms-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -webkit-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+}
+

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	  	  
+<!-- www.check-domains.com sitemap generator -->
+
+<url>
+   <loc>http://fyp.masmai.com/</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/index.php</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/about.php</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/calendar.php</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/contact.php</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/lecturer.php</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/course.php</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/department.php</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/tutorial4l.php</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/tutorial4s.php</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/faq.php</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/calendar.php?month=01&amp;year=2015</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>http://fyp.masmai.com/calendar.php?month=03&amp;year=2015</loc>
+   <lastmod>2015-02-13T11:09:54+00:00</lastmod>
+   <changefreq>hourly</changefreq>
+   <priority>0.6400</priority>
+</url>
+</urlset>
