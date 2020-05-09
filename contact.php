@@ -11,7 +11,7 @@ $content="
 <i>We welcome your questions, comments and suggestions. </i>
 </br>
 <table><tr><td>
-<form method=\"post\" action=\"contact_exec.php\">
+<form method=\"post\" action=\"exec/contact_exec.php\">
 <div class=\"dynamiclabel\">
 <input name=\"name\" id=\"name\" placeholder=\"Your Name\" type=\"text\">
 <label for=\"name\">Enter Your Name</label>

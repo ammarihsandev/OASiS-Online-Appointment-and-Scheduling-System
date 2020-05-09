@@ -16,7 +16,7 @@ if($count == 1)
  {
  $_SESSION['myuser'] = $myuser;
 echo "<script language=\"javascript\" type=\"text/javascript\">
-window.location=\"student/index.php\";
+window.location=\"../student/index.php\";
 </script>";
    }
   else  
@@ -28,7 +28,7 @@ window.location=\"student/index.php\";
  {
   $_SESSION['myuser'] = $myuser;
 echo "<script language=\"javascript\" type=\"text/javascript\">
-window.location=\"lecturer/index.php\";
+window.location=\"../lecturer/index.php\";
 </script>";
  }
  else 
@@ -40,14 +40,14 @@ window.location=\"lecturer/index.php\";
  {
   $_SESSION['myuser'] = $myuser;
 echo "<script language=\"javascript\" type=\"text/javascript\">
-window.location=\"admin/index.php\";
+window.location=\"../admin/index.php\";
 </script>";
  }
  else
  {
  
 echo "<script language=\"javascript\" type=\"text/javascript\">
-window.location=\"login.php\";
+window.location=\"../login.php\";
 </script>";
  }
  }
