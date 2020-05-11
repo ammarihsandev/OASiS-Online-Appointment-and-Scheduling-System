@@ -1,9 +1,9 @@
 # OASiS-Online-Appointment-and-Scheduling-System
-Developed using PHP, IIUM OASIS is an Online Appointment and Scheduling System for a school or university.
+Developed using PHP, OASIS is an Online Appointment and Scheduling System for a school or university.
 
 
 ### Highlights
-OASIS is an online appointmant and scheduling system that developed to help student and their teacher/lecturer to set an appointment effectively and efficiency. OASiS stands for Online Appointment and Scheduling System. Student can set an appointment with their lecturers for consultation. While the Lecturer can provide thair available time to the students.
+OASIS  is an online appointmant and scheduling system that developed to help student and their teacher/lecturer to set an appointment effectively and efficiency. OASiS stands for Online Appointment and Scheduling System. Student can set an appointment with their lecturers for consultation. While the Lecturer can provide thair available time to the students.
 
 [![](https://raw.githubusercontent.com/ainstudio/OASiS-Online-Appointment-and-Scheduling-System/master/screenshot/iium%20oasis.png)](https://ammarihsan.my.id "OASiS Overview")
 > OASiS Overview
